@@ -58,7 +58,7 @@ Follow these quick command-line instructions to compile and play the game:
    g++ -o snake_game main.cpp
 
 ## Run the executable
-    snake_game.exe
+       snake_game.exe
 
 
 
