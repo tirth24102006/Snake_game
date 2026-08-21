@@ -1,6 +1,6 @@
 # Snake_game
 A classic Snake game built in C++ for the console. It features smooth movement using deque, collision detection for walls and body segments, a random food spawning system, and a high-score tracker. Perfect for learning game loops and basic coordinate-based mechanics.
-
+ 
 # 🐍 Console Snake Game in C++
 
 Welcome to the classic, terminal-based **Snake Game** built in pure C++! This project leverages lightweight, low-level console rendering and native Windows APIs to deliver a smooth, high-performance retro gaming experience directly inside your command line window. 🎮
