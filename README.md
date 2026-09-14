@@ -13,7 +13,7 @@ Welcome to the classic, terminal-based **Snake Game** built in pure C++! This pr
 * **Asynchronous Input Engine:** Captures real-time keyboard strokes smoothly using Windows-native `_kbhit()` and `_getch()` utilities, preventing the core game loop from lagging or waiting for input.
 * **Matrix Buffer Rendering:** Dynamically instantiates a 2D `char` matrix to clear and draw borders (`#`), the snake head (`@`), body parts (`O`), and fruit targets (`F`) inside a fixed layout.
 * **Local State Persistency:** Tracks real-time active gaming scores, actively evaluates high-score boundaries, and offers instant session reloading upon triggering a collision.
-
+ 
 ---
 
 ## 🕹️ Game Mechanics
