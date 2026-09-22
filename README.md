@@ -5,7 +5,7 @@ A classic Snake game built in C++ for the console. It features smooth movement u
 
 Welcome to the classic, terminal-based **Snake Game** built in pure C++! This project leverages lightweight, low-level console rendering and native Windows APIs to deliver a smooth, high-performance retro gaming experience directly inside your command line window. 🎮
  
---- 
+---  
  
 ## 🚀 Features & Implementation
 
